@@ -1,0 +1,10 @@
+{
+    "token": "TU-TOKEN-PO",
+    "clientId": "ID DE TU BOT",
+    "guildId": "ID DE TU SERVER",
+    "mongoURI": "URI DE TU MONGO",
+    "welcomeChannelId": "ID DEL CANAL DE BIENVENIDAS",
+    "rulesChannelId": "ID DEL CANAL DE RULES",
+    "introChannelId": "CANAL DE ENTRADAS",
+    "newMemberRoleId": "ID DEL ROL QUE SE LE DARA A UN USUARIO CUANDO ENTRE AL SERVER"
+}
