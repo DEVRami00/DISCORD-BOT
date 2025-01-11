@@ -2,6 +2,8 @@ const discord = require("discord.js");
 const fs = require("fs");
 const config = require("./config.json");
 const { connectToDatabase } = require('./database/mongo');
+const anticrash = require('./anticrash');
+anticrash(client);
 
 const client = new discord.Client({
     intents: 53608447,
